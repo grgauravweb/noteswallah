@@ -1,0 +1,15 @@
+write the react-native code for home page after login screen of buy/sell handwritten notes  with the following features:
+1. header with 3 tabs: 
+   1. menu lines with 3 options:
+        a.profile
+        b.category
+        c.logout
+   2. center Text "Notes Walah" 
+   3. search bar with settings
+4.provide two button sell/buy the your notes 
+5.select category of notes
+6.list of latest notes
+
+8448725213
+
+ngrok http 5002
